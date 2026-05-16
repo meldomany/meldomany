@@ -69,19 +69,6 @@ I'm a Senior Full-Stack Developer with **5+ years** building enterprise-grade we
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meldomany&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meldomany&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meldomany&hide_border=true&theme=tokyonight">
-</p>
-
----
-
 <p align="center">
   <em>Got an interesting project? Let's <a href="mailto:mohamed@eldomany.com">talk</a>.</em>
 </p>
